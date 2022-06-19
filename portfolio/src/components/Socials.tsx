@@ -1,7 +1,7 @@
 // @ts-ignore
 import {Container} from "./Container.tsx";
 // @ts-ignore
-import {socials} from "../Data/Socials.tsx";
+import {socials} from "../data/Socials.tsx";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap-icons/font/bootstrap-icons.css';
 

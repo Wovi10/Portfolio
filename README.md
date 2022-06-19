@@ -1,2 +1,2 @@
 # Portfolio
-Source code of my portfolio
+Welcome to the source code repository of my portfolio.
